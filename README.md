@@ -1,3 +1,4 @@
 # Sunshine
-Sunshine Android app from Udacity course
+Sunshine Android app from Udacity course.
+
 
