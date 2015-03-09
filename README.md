@@ -17,3 +17,7 @@ Sunshine Android app from Udacity course.
 - draw9patch : redimensionnement des images
 
 - hierarchyViewer : hierarchie des vues et composants. Attention installer ViewServer en plus pr utilisation avec genymotion et real
+- 
+lesson 2 :
+
+- voir retrofit pour les requetes en rest
