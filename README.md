@@ -22,4 +22,7 @@ lesson 2 :
 
 - voir retrofit pour les requetes en rest
 - utiliser robospice pour faire de vrais services sans blocage possible (rotation de l'écran etc) : https://raw.githubusercontent.com/stephanenicolas/robospice/master/gfx/RoboSpice-InfoGraphics.png 
-- 
+
+Autre : http://code.tutsplus.com/tutorials/android-sdk-create-a-barcode-reader--mobile-17162
+
+
